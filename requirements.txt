@@ -2,3 +2,4 @@ streamlit
 tensorflow==2.21.0
 opencv-python-headless
 numpy
+scikit-learn
